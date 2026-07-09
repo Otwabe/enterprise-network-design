@@ -1,35 +1,37 @@
 # Enterprise Network Design
 
-## Overview
-
-This project demonstrates the design and implementation of a secure enterprise network for **Mbogi Technologies Ltd**, a fictional medium-sized technology and logistics company based in Nairobi, Kenya.
-
-The objective is to design a scalable, secure, and well-documented network infrastructure that reflects real-world enterprise networking practices.
+![InfraCore Solutions](assets/logo/infracore-logo.png)
 
 ---
 
-## Project Goals
+## Project Overview
 
-- Design a secure enterprise LAN
-- Create an IP addressing scheme
-- Configure VLANs
-- Implement routing and switching
-- Secure the network using firewall policies
-- Plan wireless infrastructure
-- Prepare for Active Directory integration
-- Document every stage of the deployment
+This repository documents the complete enterprise network design developed by **InfraCore Solutions** for **GreenFields Logistics Ltd.**
+
+The project follows a real-world infrastructure consulting approach—from business requirements gathering to architecture design, implementation planning, security considerations, and documentation.
 
 ---
 
-## Company Profile
+## Project Deliverables
 
-| Item | Details |
-|------|---------|
-| Company | Mbogi Technologies Ltd |
-| Industry | Technology & Logistics |
-| Employees | 120 |
-| Headquarters | Nairobi |
-| Branches | Planned for future expansion |
+- Executive Summary
+- Project Charter
+- Client Requirements
+- Office Layout
+- Enterprise Network Topology
+- VLAN Design
+- IP Addressing Plan
+- Server Room Design
+- Wireless Coverage Plan
+- CCTV Network Design
+- Cisco Packet Tracer Lab
+- Device Configurations
+
+---
+
+## Architecture Preview
+
+![Network Topology](diagrams/Network-Topology.png)
 
 ---
 
@@ -38,37 +40,16 @@ The objective is to design a scalable, secure, and well-documented network infra
 - Cisco Packet Tracer
 - VLANs
 - Routing & Switching
+- Windows Server
+- Active Directory
 - DHCP
 - DNS
-- NAT
-- ACLs
 - VPN
+- Firewall
 - Enterprise Wi-Fi
 
 ---
 
-## Repository Structure
+## Project Status
 
-docs/ → Documentation
-
-diagrams/ → Network diagrams
-
-packet-tracer/ → Cisco Packet Tracer files
-
-router-configs/ → Router configurations
-
-switch-configs/ → Switch configurations
-
-firewall/ → Firewall rules
-
-ip-plan/ → IP addressing
-
-vlans/ → VLAN design
-
-screenshots/ → Images of the implementation
-
----
-
-## Status
-
-🚧 Project in Progress
+🚧 In Progress
