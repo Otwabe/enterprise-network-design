@@ -1,0 +1,50 @@
+# VLAN Configuration Plan
+
+## Planned VLANs
+
+| VLAN | Name |
+|------:|------|
+| 10 | MANAGEMENT |
+| 20 | ICT |
+| 30 | HR |
+| 40 | FINANCE |
+| 50 | SALES |
+| 60 | SUPPORT |
+| 70 | SERVERS |
+| 80 | CCTV |
+| 90 | PRINTERS |
+| 100 | GUEST_WIFI |
+| 110 | NETWORK_MANAGEMENT |
+
+---
+
+## Inter-VLAN Routing
+
+Routing will be performed by the Cisco Catalyst 9500 Layer 3 Core Switch.
+
+---
+
+## Trunk Links
+
+802.1Q trunking will be configured between:
+
+- Core Switch ↔ Distribution Switches
+- Distribution Switches ↔ Access Switches
+
+---
+
+## Access Ports
+
+End devices will be assigned to their respective departmental VLANs.
+
+---
+
+## Native VLAN
+
+VLAN 999 will be reserved as the native VLAN for trunk links.
+
+---
+
+## Management VLAN
+
+VLAN 110 will be used exclusively for switch management and administrative access.
