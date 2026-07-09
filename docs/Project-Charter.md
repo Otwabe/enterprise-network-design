@@ -6,44 +6,44 @@ Enterprise Network Design for GreenFields Logistics Ltd.
 
 ---
 
-## Project Sponsor
+## Prepared By
 
 InfraCore Solutions
 
----
+Project Engineer: Samuel Otwabe
 
-## Project Manager
-
-Samuel Otwabe
+Date: July 2026
 
 ---
 
-## Purpose
+## Project Objective
 
-Design a secure, scalable, and highly available enterprise network infrastructure that supports business operations, future expansion, and modern security standards.
+Design and implement a secure, scalable, and reliable enterprise network infrastructure for GreenFields Logistics Ltd.
 
 ---
 
-## Objectives
+## Project Scope
 
-- Design a hierarchical network architecture
-- Separate departments using VLANs
-- Implement secure routing
-- Provide wireless connectivity
-- Support Active Directory
-- Prepare for branch connectivity
-- Improve security
-- Produce professional documentation
+The project includes:
+
+- Enterprise LAN Design
+- VLAN Implementation
+- IP Addressing Plan
+- Routing & Switching
+- Wireless Network Design
+- Firewall Integration
+- VPN Connectivity
+- Server Infrastructure
+- Network Documentation
 
 ---
 
 ## Expected Deliverables
 
-- Enterprise Network Diagram
-- IP Addressing Plan
+- Network Topology
 - VLAN Design
-- Router Configuration
-- Switch Configuration
-- Packet Tracer Simulation
-- Security Documentation
-- Final Report
+- IP Addressing Scheme
+- Cisco Packet Tracer Simulation
+- Device Configurations
+- Technical Documentation
+- Final Project Report
